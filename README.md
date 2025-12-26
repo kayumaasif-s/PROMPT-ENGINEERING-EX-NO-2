@@ -20,4 +20,7 @@ User experience
 
 ## OUTPUT
 
-## RESULT
+[kayum aasif EX-2.docx](https://github.com/user-attachments/files/24347831/kayum.aasif.EX-2.docx)
+
+## RESULT:Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization is successfully completed
+
